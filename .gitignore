@@ -1,0 +1,5 @@
+*.[sb]#[0-9]
+/Firmware/PCRemoteControl.X/build/default/
+/Firmware/PCRemoteControl.X/dist/default/
+/Firmware/PCRemoteControl.X/l.obj
+/Software/pcremotecontrol
